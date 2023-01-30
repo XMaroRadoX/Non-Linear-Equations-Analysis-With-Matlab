@@ -31,6 +31,8 @@ Using Secant Method
 <img src="Demos/2.png">
 </p>
 
+* Further Cases can be found in the report associated with the project. Feel free to expriment yourself or add other Demos.
+
 ## Table of contents :label:
 
 | File Name                                                                                                           | Description                                                       |
