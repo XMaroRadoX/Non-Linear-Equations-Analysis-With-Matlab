@@ -39,7 +39,7 @@ Using Secant Method
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Report.pdf](https://github.com/XMaroRadoX/Non-Linear-Equations-Analysis-With-Matlab/blob/master/Report.pdf) | Contains the psuedocode,it's implementation,and running cases with various functions. |
 | [techinques.m](https://github.com/XMaroRadoX/Non-Linear-Equations-Analysis-With-Matlab/blob/master/techniques.m) | Contains matlab code of functions implementation. |
-| [Figure.m](https://github.com/XMaroRadoX/Non-Linear-Equations-Analysis-With-Matlab/blob/master/Figure.m)             | Contains matlab code of Visuals.                                          |
+| [v1.m](https://github.com/XMaroRadoX/Non-Linear-Equations-Analysis-With-Matlab/blob/master/v1.m)             | Contains matlab code of Visuals.                                          |
 
 ### Pre-requisites :screwdriver:
 
